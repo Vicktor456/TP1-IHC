@@ -21,4 +21,22 @@ Queremos ver onde usuários comuns erram ou ficam travados ao tentar deixar um p
 
 # Tarefa
 - [Tarefas com as 10 ações](https://drive.google.com/file/d/1r1MQUUFJfQf3YwOTu1tPJbcErCu-iSus/view?usp=drive_link)
+  
+# Teste Piloto
+- P00: Thiago Vasconcelos de Assunção
 
+# Testes com os 8 usuários
+- P01 - Deime Vasconcelos
+- P02 - Nicolas Vinicios Soares Prestes
+- P03 - Julio Augusto de Almeida Ferreira Junior
+- P04 - Tiago de Oliveira Lopes
+- P05 - Thamires Fernanda Mendes
+- P06 - Jeziel Monteiro pessoa
+- P07 - Emilly Monteiro dos Santos
+- P08 - Yule Ágape Alves de Almeida
+
+# Informações sobre Local do Teste
+- Local: Ufam - Sala de Estudos
+- Data: 24/09/2025
+- Formato presencial
+- [Foto dos Testes](https://drive.google.com/drive/folders/1BjuZUNghrvWmAX27QyhVHc-IAvuf7hq6?usp=sharing)
