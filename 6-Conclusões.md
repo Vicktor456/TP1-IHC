@@ -1,4 +1,4 @@
-# Conclusão (David)
+# Conclusão David
 
 A análise realizada acerca do sistema Facebook possibilitou a identificação de aspectos positivos e de limitações significativas no que concerne à usabilidade, à experiência do usuário (UX) e à comunicabilidade. De modo geral, a plataforma caracteriza-se por seu amplo alcance e pela diversidade de funcionalidades oferecidas, permitindo a interação entre diferentes perfis de usuários, a circulação de informações e a construção de redes sociais em escala global. Tais características evidenciam a consolidação do Facebook como uma das principais ferramentas digitais contemporâneas.
 
