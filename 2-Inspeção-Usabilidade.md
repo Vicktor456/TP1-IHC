@@ -23,3 +23,26 @@
 ∙[Tabela de Relato dos Resultados(Lista Limpa e Recomendação de Solução)](https://www.notion.so/27a71e2d25dc808da4f5fbcb225ca1eb?v=27a71e2d25dc81ecac22000c7c7b0e26&source=copy_link)  
 
 #
+
+## ❓Como foi feito
+
+### 🔎1.Detecção
+Nessa etapa, cada **inspetor** analisou a interface **individualmente**, registrando os problemas de usabilidade encontrados de acordo com sua percepção. Essa forma de trabalho garantiu que as observações fossem feitas sem influência dos outros inspetores, preservando a diversidade de pontos de vista.
+
+
+### 📚2.Coleção
+Nessa etapa, **um inspetor fez a coleta dos problemas identificados**, registrando o **local de origem** de cada problema, que veio das inspeções individuais. Durante a organização, **foram removidas as duplicatas** para evitar registros repetidos. Em seguida, as observações foram **compartilhadas com todo o grupo**, solicitando opiniões e validação das informações.
+
+
+### 🚮3.Discriminação
+Nessa etapa, após a **remoção das duplicatas**, fizemos uma **tabela com todos os possíveis erros** e os classificamos como:  
+
+- **Falso-Positivo**: um erro que é apenas uma opinião, **não representa um erro real**.  
+- **Defeito**: um erro que **realmente indica uma falha na interface**.  
+
+Essa etapa foi realizada com a **participação de todo o grupo**, permitindo que todos discutissem e validassem as classificações.
+
+
+### ✅4.Relato dos Resultaods
+
+
