@@ -90,6 +90,6 @@ Queremos ver onde usuários comuns erram ou ficam travados ao tentar deixar um p
 # Resultado UEQ
 [Imagens](https://drive.google.com/drive/folders/1VokwcreDCFUVLMYDNqlGEdtauVIP2ijp?usp=sharing)
 
-# Análise Quannttitativa e SUS
+# Análise Quantitativa e SUS
 - Na análise quantitativa percebemos que a taxa de sucesso é de 87.5%, a taxa de pedidos com ajuda é de 30% e uma taxa de falhas de 5%. Houve tambem uma média de 549 segundos para a realização de tarefas e com uma média de erros de 3,9.
 - A média geral do SUS teve um total de 44,6 o resultado interpretado fica abaixo da média/inaceitável.
