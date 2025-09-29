@@ -70,7 +70,14 @@ Queremos ver onde usuários comuns erram ou ficam travados ao tentar deixar um p
 [Todos os Particcipantes](https://www.notion.so/27a71e2d25dc8070993edc1266fdd3d5?v=27a71e2d25dc803a89eb000cb6aeba96&source=copy_link)
 
 # Mapeamento de Respostas
+
+1. O que você mais gostou? Por quê?
+2. O que mais dificultou o uso? Em que momento?
+3. Se pudesse mudar uma coisa, o que mudaria?
+   
 [Mapeamento de respostas abertas a fatores de usabilidade](https://www.notion.so/27b71e2d25dc80989aaaf2da50427898?v=27b71e2d25dc808bbe10000c9d2ca24d&source=copy_link)
+
+
 
 # Tabela de Atividade
 [Indentificação](https://www.notion.so/Identifica-o-27b71e2d25dc80478bcdf67be9a898e8?source=copy_link)
