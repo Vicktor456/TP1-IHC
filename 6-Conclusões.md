@@ -16,7 +16,7 @@ Dessa forma, conclui-se que, embora o Facebook constitua uma ferramenta consolid
   
   O Trabalho Prático contribuiu de maneira significativa para nossas habilidades em IHC, pois nos permitiu vivenciar na prática o ciclo completo de avaliação de sistemas interativos. Desenvolvemos competências em planejamento de estudos, aplicação de instrumentos de coleta, análise crítica de resultados e comunicação das conclusões. Mais do que aplicar técnicas, aprendemos a olhar o sistema sob a perspectiva do usuário, fortalecendo nossa capacidade de projetar soluções centradas nas pessoas e mais eficazes em termos de usabilidade, experiência e comunicabilidade.
 
-# Conclusão (Thiago)
+# Conclusão Thiago
 
  A avaliação deste trabalho prático foi desafiadora, imersiva e didática, o que foi muito importante para minha compreensão teórica de IHC (Interação Humano-Computador) em habilidade prática. Ao avaliar o sistema ‘Facebook’ sob as perspectivas de Usabilidade, Experiência do Usuário e Comunicabilidade, foi possível identificar diversos pontos de melhoria, e extrair lições que são fundamentais. 
 
