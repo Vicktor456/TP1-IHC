@@ -37,7 +37,7 @@ Formato Presencial
 
 #
 ## Interpretação dos Resultados
-A **interpretação dos resultados no MAC** tem como objetivo **analisar os dados coletados** durante os testes, **identificar padrões de dificuldade**, relacionar os problemas à **falha de comunicação da interface** e gerar **recomendações de melhoria**. Essa etapa transforma os registros em **insights práticos** para aprimorar o design do sistema.  
+🠖A **interpretação dos resultados no MAC** tem como objetivo **analisar os dados coletados** durante os testes, **identificar padrões de dificuldade**, relacionar os problemas à **falha de comunicação da interface** e gerar **recomendações de melhoria**. Essa etapa transforma os registros em **insights práticos** para aprimorar o design do sistema.  
 
 | **Etiqueta**        | **Significado / Quando ocorre**                                                                 |
 |----------------------|-------------------------------------------------------------------------------------------------|
@@ -64,4 +64,9 @@ Aqui se encontra a tabela com **todas** as expressões devidamente catalogadas.
 
 ## Análise com Base nos Dados
 
+### Interpretação dos Dados
+
+### Sugestão de Melhorias
+
+### Interpretação Final dos Dados
 
