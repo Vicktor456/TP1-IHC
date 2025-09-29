@@ -1,4 +1,4 @@
-#Conclusão Davi
+# Conclusão Davi
 
 Durante o trabalho prático, enfrentei diversos **desafios** nas quatro avaliações. Na primeira avaliação, percebi que buscar erros na detecção individual sem uma direção clara era bastante difícil. Para contornar isso, criei uma **estratégia específica**, elaborando um roteiro focado em opções técnicas do sistema (Facebook), que normalmente não são verificadas por usuários comuns, mas ainda assim constituíam erros relevantes. Além disso, tive dificuldade em conciliar o grupo como representante, mas consegui organizar as atividades de forma eficiente. No MAC, a interpretação dos dados e informações também foi desafiadora, principalmente ao lidar com **porcentagens e análises do que os usuários compreendiam** em comparação ao que os vídeos forneciam.
 
