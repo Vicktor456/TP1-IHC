@@ -43,6 +43,10 @@ Nessa etapa, após a **remoção das duplicatas**, fizemos uma **tabela com todo
 Essa etapa foi realizada com a **participação de todo o grupo**, permitindo que todos discutissem e validassem as classificações.
 
 
-### ✅4.Relato dos Resultaods
+### ✅4.Relato dos Resultados
+Nessa etapa, registramos e apresentamos os **problemas identificados e classificados** durante a inspeção. A partir das tabelas de coleta e da discriminação dos erros, destacamos os **defeitos mais relevantes**, suas **frequências** e os **locais de ocorrência** na interface.  
+
+O relato permitiu que todo o grupo tivesse uma visão **clara e consolidada** das falhas, servindo de base para **recomendações de melhoria** no sistema.
+
 
 
