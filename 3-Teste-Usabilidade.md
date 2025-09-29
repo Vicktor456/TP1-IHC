@@ -65,3 +65,14 @@ Queremos ver onde usuários comuns erram ou ficam travados ao tentar deixar um p
 [Emillly Monteiro dos Santos - P07](https://www.notion.so/27a71e2d25dc80bda3d6ee8a4c8831ef?v=27a71e2d25dc814a839a000cce3f46c4&source=copy_link)
 
 [Yule Ágape Alves de Almeida  - P08](https://www.notion.so/27a71e2d25dc80d49bf6c29081434871?v=27a71e2d25dc813087a7000cb33e089d&source=copy_link)
+
+# Consolidação por Tarefa 
+[Todos os Particcipantes](https://www.notion.so/27a71e2d25dc8070993edc1266fdd3d5?v=27a71e2d25dc803a89eb000cb6aeba96&source=copy_link)
+
+# Mapeamento de Respostas
+[Mapeamento de respostas abertas a fatores de usabilidade](https://www.notion.so/27b71e2d25dc80989aaaf2da50427898?v=27b71e2d25dc808bbe10000c9d2ca24d&source=copy_link)
+
+# Tabela de Atividade
+[Indentificação](https://www.notion.so/Identifica-o-27b71e2d25dc80478bcdf67be9a898e8?source=copy_link)
+
+[Tabela](https://www.notion.so/27b71e2d25dc80e09ccaeb6602d86ae4?v=27b71e2d25dc8091bfb9000c552f600a&source=copy_link)
