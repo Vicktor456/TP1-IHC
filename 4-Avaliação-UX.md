@@ -46,7 +46,7 @@ Em várias dimensões, o sistema é percebido como “bom, mas não excelente”
 - Organização pode ser melhorada;
 - Atratividade estética não impressionou.
 
-## Gráficos da média e variância
+## Gráficos da média variância
 
 <img width="590" height="343" alt="image" src="https://github.com/user-attachments/assets/77ddda96-7fa1-47dd-910f-f8b13b8c9c3e" />
 <img width="590" height="343" alt="image" src="https://github.com/user-attachments/assets/5fba0eec-85d8-4a8a-a3c5-8c1094672d85" />
