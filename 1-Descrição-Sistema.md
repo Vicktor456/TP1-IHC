@@ -4,6 +4,7 @@
 <img width="1000" height="500" alt="image" src="https://github.com/user-attachments/assets/4be73326-925d-48c6-94bf-291ed930c42f" />
 
 
+
 O Facebook se enquadra primariamente nos seguintes domínios:
 
 - Rede Social (Social Networking): É o seu domínio principal, focado em conectar pessoas.
