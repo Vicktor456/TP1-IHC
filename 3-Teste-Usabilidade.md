@@ -79,6 +79,9 @@ Queremos ver onde usuários comuns erram ou ficam travados ao tentar deixar um p
 
 # Análise dos Objetivos
 
+A reavaliação dos objetivos de usabilidade transformou a análise em um diagnóstico de falha crítica: a experiência do usuário comum (novato) é insustentável.
+Os testes confirmaram que o objetivo de avaliar a Segurança e Privacidade para novatos falhou porque a altíssima incidência de erros e desistências prova que esses menus são inutilizáveis, configurando uma falha crítica de design. Por outro lado, o teste obteve êxito ao provar que a falta de ação em massa prejudica a produtividade de usuários experientes, e que a falta de feedback imediato após ações críticas mina a confiança do usuário. Portanto, a correção imediata exige: refazer do zero o design das funcionalidades de Segurança e Privacidade para usuários comuns, além de implementar opções de ação em massa para o usuário experiente e corrigir o sistema de feedback para garantir mensagens claras de sucesso ou erro.
+
 # Tabela de Atividade
 [Indentificação](https://www.notion.so/Identifica-o-27b71e2d25dc80478bcdf67be9a898e8?source=copy_link)
 
