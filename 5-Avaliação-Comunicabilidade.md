@@ -65,6 +65,30 @@ Aqui se encontra a tabela com **todas** as expressões devidamente catalogadas.
 ## Análise com Base nos Dados
 
 ### Interpretação dos Dados
+#### 1.Problemas Críticos de Visibilidade e Orientação do Usuário
+A etiqueta mais recorrente, “Cadê?”, com 11 ocorrências, é um forte indicativo de que os usuários não conseguem encontrar informações, botões ou funcionalidades essenciais para progredir. Isso aponta para deficiências na arquitetura da informação e na clareza da interface.
+
+  De forma complementar, a etiqueta “Onde Estou?” (3 ocorrências) reforça a existência de problemas de navegação. Os usuários se sentem perdidos no fluxo do sistema, o que aumenta a carga cognitiva e a frustração, especialmente durante a execução da Tarefa T4.
+
+#### 2.Bloqueios e Incertezas no Fluxo de Interação
+
+As perguntas “E agora?” e “O que é isto?” indicam que o sistema não fornece feedback adequado ou orientação sobre os próximos passos. Os usuários ficam paralisados, sem saber como continuar, o que sugere uma falta de clareza nas ações necessárias para completar as tarefas T4 e T10.
+
+#### 3.Frustações e Abandonos de Tarefas
+
+As etiquetas que expressam sentimentos negativos são particularmente preocupantes, mesmo com baixa frequência, pois indicam pontos de ruptura graves:
+
+- “Desisto” e “Socorro!”: A presença dessas etiquetas, mesmo que unitárias, sinaliza que o usuário atingiu um nível de dificuldade tão alto que não consegue avançar sem ajuda externa ou simplesmente abandona o processo (como visto na T4).
+
+- “Assim não dá” e “Vai de outro jeito”: Revelam que os caminhos propostos pelo sistema são ineficientes ou confusos, forçando o usuário a buscar alternativas. Isso é um sintoma claro de que o fluxo de trabalho projetado não atende às expectativas ou ao modelo mental do usuário, especialmente na tarefa T10.
+
+#### 4.Tarefas mais Problemáticas
+
+A análise mostra claramente que duas tarefas concentram a maioria dos problemas de usabilidade:
+
+- **Tarefa T10**: É a mais afetada, acumulando uma variedade de dificuldades que vão desde a incompreensão de elementos ("O que é isto?") até a busca por rotas alternativas ("Vai de outro jeito").
+
+- **Tarefa T4**: Também se destaca como um ponto crítico, gerando confusão sobre a localização de funcionalidades ("Cadê?") e a posição do usuário no sistema ("Onde Estou?"), culminando em desistência.
 
 ### Sugestão de Melhorias
 
