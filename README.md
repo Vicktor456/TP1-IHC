@@ -25,3 +25,4 @@ Por fim, a Comunicabilidade avalia o quão clara e eficaz a plataforma é em se 
 
 # Descrição do Sistema
 
+https://github.com/Vicktor456/TP1-IHC/blob/main/1-Descri%C3%A7%C3%A3o-Sistema.md
