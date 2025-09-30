@@ -24,17 +24,17 @@
 
 #
 
-## ❓Como foi feito
+## Como foi feito
 
-### 🔎1.Detecção
+### 1.Detecção
 Nessa etapa, cada **inspetor** analisou a interface **individualmente**, registrando os problemas de usabilidade encontrados de acordo com sua percepção. Essa forma de trabalho garantiu que as observações fossem feitas sem influência dos outros inspetores, preservando a diversidade de pontos de vista.
 
 
-### 📚2.Coleção
+### 2.Coleção
 Nessa etapa, **um inspetor fez a coleta dos problemas identificados**, registrando o **local de origem** de cada problema, que veio das inspeções individuais. Durante a organização, **foram removidas as duplicatas** para evitar registros repetidos. Em seguida, as observações foram **compartilhadas com todo o grupo**, solicitando opiniões e validação das informações.
 
 
-### 🚮3.Discriminação
+### 3.Discriminação
 Nessa etapa, após a **remoção das duplicatas**, fizemos uma **tabela com todos os possíveis erros** e os classificamos como:  
 
 - **Falso-Positivo**: um erro que é apenas uma opinião, **não representa um erro real**.  
@@ -43,7 +43,7 @@ Nessa etapa, após a **remoção das duplicatas**, fizemos uma **tabela com todo
 Essa etapa foi realizada com a **participação de todo o grupo**, permitindo que todos discutissem e validassem as classificações.
 
 
-### ✅4.Relato dos Resultados
+### 4.Relato dos Resultados
 Nessa etapa, registramos e apresentamos os **problemas identificados e classificados** durante a inspeção. A partir das tabelas de coleta e da discriminação dos erros, destacamos os **defeitos mais relevantes**, suas **frequências** e os **locais de ocorrência** na interface.  
 
 O relato permitiu que todo o grupo tivesse uma visão **clara e consolidada** das falhas, servindo de base para **recomendações de melhoria** no sistema.
