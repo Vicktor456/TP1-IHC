@@ -77,7 +77,7 @@ Queremos ver onde usuários comuns erram ou ficam travados ao tentar deixar um p
    
 [Mapeamento de respostas abertas a fatores de usabilidade](https://www.notion.so/27b71e2d25dc80989aaaf2da50427898?v=27b71e2d25dc808bbe10000c9d2ca24d&source=copy_link)
 
-
+# Análise dos Objetivos
 
 # Tabela de Atividade
 [Indentificação](https://www.notion.so/Identifica-o-27b71e2d25dc80478bcdf67be9a898e8?source=copy_link)
