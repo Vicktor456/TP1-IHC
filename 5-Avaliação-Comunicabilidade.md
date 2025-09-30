@@ -91,22 +91,20 @@ A análise mostra claramente que duas tarefas concentram a maioria dos problemas
 - **Tarefa T4**: Também se destaca como um ponto crítico, gerando confusão sobre a localização de funcionalidades ("Cadê?") e a posição do usuário no sistema ("Onde Estou?"), culminando em desistência.
 
 ### Sugestão de Melhorias
-#### Melhoria para Tarefa 4
 ### Resumo das Melhorias de Usabilidade Propostas
 
 As análises das tarefas **"Gerenciar Preferências de Anúncios"** e **"Criar um Álbum de Fotos Privado"** revelam um problema comum: funcionalidades importantes estão escondidas em menus genéricos, exigindo que o usuário interrompa seu fluxo e navegue por várias telas.
 
-As soluções propostas seguem um mesmo princípio: **trazer a funcionalidade para o contexto onde o usuário precisa dela.**
 
 ---
 
 #### Tarefa 4
-> Vá até as configurações para ver ou editar as suas preferências de anúncios.
+Vá até as configurações para ver ou editar as suas preferências de anúncios.
 
 * **Problema:** A opção está "enterrada" nas Configurações, forçando o usuário a um longo caminho para fazer uma alteração simples e desconectada do anúncio que o incomodou.
 * **Solução Resumida:**
-    * **Acesso Visível:** Adicionar um atalho (ícone `...`) em cada anúncio, oferecendo a opção direta `Gerenciar preferências`.
-    * **Ação Contextual:** Levar o usuário a uma **interface visual**, onde seus interesses são "tags" (ex: `[Tecnologia ⓧ]`) fáceis de remover com um clique.
+    * **Acesso Visível:** Adicionar um atalho (ícone de `...`) em cada anúncio, oferecendo a opção direta `Gerenciar preferências`.
+    * **Ação Contextual:** Levar o usuário a uma **interface visual**, onde seus interesses são "tags" (ex: `[Tecnologia X]`) fáceis de remover com um clique.
     * **Feedback Imediato:** Confirmar a ação com uma mensagem clara (`Pronto! Você verá menos anúncios sobre este tema`), aumentando a transparência e a sensação de controle.
 
 **Resultado:** A gestão de anúncios deixa de ser uma tarefa complexa para se tornar uma ação contextual e instantânea.
@@ -114,7 +112,7 @@ As soluções propostas seguem um mesmo princípio: **trazer a funcionalidade pa
 ---
 
 #### Tarefa 10
-> Vá para o seu perfil e crie um novo álbum de fotos, definindo sua privacidade como "Somente Eu".
+Vá para o seu perfil e crie um novo álbum de fotos, definindo sua privacidade como "Somente Eu".
 
 * **Problema:** Dificuldade em achar a opção "Criar Álbum" no perfil e em configurar a privacidade "Somente Eu" após a criação.
 * **Solução Resumida:**
@@ -125,10 +123,6 @@ As soluções propostas seguem um mesmo princípio: **trazer a funcionalidade pa
 **Resultado:** O fluxo se torna rápido e integrado, eliminando a chance de o usuário se perder ou esquecer de configurar a privacidade.
 
 ---
-
-### Conclusão Geral
-
-Ambas as melhorias movem as funcionalidades de locais passivos (menus de Configurações) para **pontos de ação proativos e contextuais**. Essa abordagem reduz drasticamente o número de cliques, diminui a carga cognitiva do usuário e entrega o controle exatamente onde e quando ele é necessário, resultando em uma experiência mais fluida e satisfatória.
 
 ### Interpretação Final dos Dados
 
