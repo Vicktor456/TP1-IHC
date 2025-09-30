@@ -25,8 +25,25 @@ Por fim, a Comunicabilidade avalia o quão clara e eficaz a plataforma é em se 
 
 # Descrição do Sistema
 
-https://github.com/Vicktor456/TP1-IHC/blob/main/1-Descri%C3%A7%C3%A3o-Sistema.md
+[Descrição do Sistema](https://github.com/Vicktor456/TP1-IHC/blob/main/1-Descri%C3%A7%C3%A3o-Sistema.md)
 
 # Inspeção de Usabilidade
 
+[Inspeção de Usabilidade](https://github.com/Vicktor456/TP1-IHC/blob/main/2-Inspe%C3%A7%C3%A3o-Usabilidade.md)
+
+# Teste de Usabilidade
+
+[Teste de Usabilidade](https://github.com/Vicktor456/TP1-IHC/blob/main/3-Teste-Usabilidade.md)
+
+# Avaliação UX
+
+[Avaliação UX](https://github.com/Vicktor456/TP1-IHC/blob/main/4-Avalia%C3%A7%C3%A3o-UX.md)
+
+# Avaliação de Comunicabilidade
+
+[Avaliação de Comunicabilidade](https://github.com/Vicktor456/TP1-IHC/blob/main/5-Avalia%C3%A7%C3%A3o-Comunicabilidade.md)
+
+# Conclusão
+
+[Conclusões](https://github.com/Vicktor456/TP1-IHC/blob/main/6-Conclus%C3%B5es.md)
 
