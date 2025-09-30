@@ -84,12 +84,6 @@ Queremos ver onde usuários comuns erram ou ficam travados ao tentar deixar um p
 
 [Tabela](https://www.notion.so/27b71e2d25dc80e09ccaeb6602d86ae4?v=27b71e2d25dc8091bfb9000c552f600a&source=copy_link)
 
-# Resultado SUS
-[Imagens](https://drive.google.com/drive/folders/1K1b7JsQaUOv6i5mpp0C90ueXQq1mpriD?usp=sharing)
-
-# Resultado UEQ
-[Imagens](https://drive.google.com/drive/folders/1VokwcreDCFUVLMYDNqlGEdtauVIP2ijp?usp=sharing)
-
 # Análise Quantitativa e SUS
 - Na análise quantitativa percebemos que a taxa de sucesso é de 87.5%, a taxa de pedidos com ajuda é de 30% e uma taxa de falhas de 5%. Houve tambem uma média de 549 segundos para a realização de tarefas e com uma média de erros de 3,9.
 - A média geral do SUS teve um total de 44,6 o resultado interpretado fica abaixo da média/inaceitável.
