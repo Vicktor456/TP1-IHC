@@ -91,6 +91,11 @@ A análise mostra claramente que duas tarefas concentram a maioria dos problemas
 - **Tarefa T4**: Também se destaca como um ponto crítico, gerando confusão sobre a localização de funcionalidades ("Cadê?") e a posição do usuário no sistema ("Onde Estou?"), culminando em desistência.
 
 ### Sugestão de Melhorias
+- "4 - Vá até as configurações para ver ou editar as suas preferências de anúncios." Em vez de o usuário precisar navegar até as Configurações, poderia existir:
+- Um botão de acesso rápido chamado "Preferências de Anúncios" no menu principal ou no próprio menu de opções de um anúncio.
+- Um atalho contextual no canto do próprio anúncio exibido, com a opção “Gerenciar preferências”, permitindo editar diretamente interesses, categorias e temas indesejados sem sair da tela.
+- Uma interface simplificada e visual, usando ícones e categorias (ex: Tecnologia, Moda, Viagens), facilitando a inclusão ou exclusão de interesses com apenas um toque.
 
+Isso reduz cliques, torna o processo mais transparente e controlável para o usuário, além de aumentar a sensação de personalização.
 ### Interpretação Final dos Dados
 
