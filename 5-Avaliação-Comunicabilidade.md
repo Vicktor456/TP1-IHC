@@ -97,5 +97,7 @@ A análise mostra claramente que duas tarefas concentram a maioria dos problemas
 - Uma interface simplificada e visual, usando ícones e categorias (ex: Tecnologia, Moda, Viagens), facilitando a inclusão ou exclusão de interesses com apenas um toque.
 
 Isso reduz cliques, torna o processo mais transparente e controlável para o usuário, além de aumentar a sensação de personalização.
+
 ### Interpretação Final dos Dados
 
+A avaliação de comunicabilidade (MAC) aponta para um problema sistêmico de visibilidade e orientação na interface. A alta frequência da etiqueta “Cadê?” (11 ocorrências) demonstra que os usuários estão constantemente perdidos e não conseguem encontrar funcionalidades essenciais. Essa falta de clareza na arquitetura da informação leva a bloqueios no fluxo de interação (“E agora?”) e, mais gravemente, a um risco de abandono, conforme evidenciado pelas etiquetas “Desisto!” e “Socorro!”. As tarefas T10 e T4 concentram a maior parte das falhas, indicando que o fluxo de trabalho projetado para essas áreas é confuso e ineficiente, exigindo correções urgentes na navegação e no feedback do sistema.
