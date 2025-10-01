@@ -26,14 +26,6 @@ Queremos ver onde usuários comuns erram ou ficam travados ao tentar deixar um p
 - P00: Thiago Vasconcelos de Assunção
 
 # Testes com os 8 usuários
-- P01 - Deime Vasconcelos
-- P02 - Nicolas Vinicios Soares Prestes
-- P03 - Julio Augusto de Almeida Ferreira Junior
-- P04 - Tiago de Oliveira Lopes
-- P05 - Thamires Fernanda Mendes
-- P06 - Jeziel Monteiro pessoa
-- P07 - Emilly Monteiro dos Santos
-- P08 - Yule Ágape Alves de Almeida
 
 # Informações sobre Local do Teste
 - Local: Ufam - Sala de Estudos
@@ -50,21 +42,21 @@ Queremos ver onde usuários comuns erram ou ficam travados ao tentar deixar um p
 - Questionario SUS e UEQ
 
 # Registro por Tarefa
-[Deime Vasconcelos - P01](https://www.notion.so/27a71e2d25dc80b88cf3c23c4d24ca54?v=27a71e2d25dc80db957d000cf8ed25f3&source=copy_link)
+[P01](https://www.notion.so/27a71e2d25dc80b88cf3c23c4d24ca54?v=27a71e2d25dc80db957d000cf8ed25f3&source=copy_link)
 
-[Nicolas Vinicius Soares Prestes  - P02](https://www.notion.so/27a71e2d25dc80819e0fd19d3ff087bb?v=27a71e2d25dc80de8c50000c120f3ff1&source=copy_link)
+[P02](https://www.notion.so/27a71e2d25dc80819e0fd19d3ff087bb?v=27a71e2d25dc80de8c50000c120f3ff1&source=copy_link)
 
-[Júlio Augusto de Almeida Ferreira Junior - P03](https://www.notion.so/27a71e2d25dc80a7a249cccef24ec6a4?v=27a71e2d25dc8183b6f6000c6f4e98cc&source=copy_link)
+[P03](https://www.notion.so/27a71e2d25dc80a7a249cccef24ec6a4?v=27a71e2d25dc8183b6f6000c6f4e98cc&source=copy_link)
 
-[Tiago de Oliveira Lopes - P04](https://www.notion.so/27a71e2d25dc803a9c04e29b92652ea0?v=27a71e2d25dc816c9460000c1282cabd&source=copy_link)
+[P04](https://www.notion.so/27a71e2d25dc803a9c04e29b92652ea0?v=27a71e2d25dc816c9460000c1282cabd&source=copy_link)
 
-[Thamires Fernanda Mendes - P05](https://www.notion.so/27a71e2d25dc80f2a64adf7e78f8b22a?v=27a71e2d25dc8199b1f7000c041dfa6d&source=copy_link)
+[P05](https://www.notion.so/27a71e2d25dc80f2a64adf7e78f8b22a?v=27a71e2d25dc8199b1f7000c041dfa6d&source=copy_link)
 
-[Jeziel Monteiro Pessoa - P06](https://www.notion.so/27a71e2d25dc805db783e474f70dad4a?v=27a71e2d25dc81de995e000c6660d5aa&source=copy_link)
+[P06](https://www.notion.so/27a71e2d25dc805db783e474f70dad4a?v=27a71e2d25dc81de995e000c6660d5aa&source=copy_link)
 
-[Emillly Monteiro dos Santos - P07](https://www.notion.so/27a71e2d25dc80bda3d6ee8a4c8831ef?v=27a71e2d25dc814a839a000cce3f46c4&source=copy_link)
+[P07](https://www.notion.so/27a71e2d25dc80bda3d6ee8a4c8831ef?v=27a71e2d25dc814a839a000cce3f46c4&source=copy_link)
 
-[Yule Ágape Alves de Almeida  - P08](https://www.notion.so/27a71e2d25dc80d49bf6c29081434871?v=27a71e2d25dc813087a7000cb33e089d&source=copy_link)
+[P08](https://www.notion.so/27a71e2d25dc80d49bf6c29081434871?v=27a71e2d25dc813087a7000cb33e089d&source=copy_link)
 
 # Consolidação por Tarefa 
 [Todos os Particcipantes](https://www.notion.so/27a71e2d25dc8070993edc1266fdd3d5?v=27a71e2d25dc803a89eb000cb6aeba96&source=copy_link)
