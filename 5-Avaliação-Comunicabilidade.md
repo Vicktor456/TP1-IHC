@@ -9,8 +9,8 @@ Escolhemos dois participantes com perfis diferente com relação a saber utiliza
 #
 
 ## Identificação dos Usuários
-**U1**(Usuário 1) - Arthur Djan Pinheiro Pontes  
-**U2**(Usuário 2) - Gustavo Pacheco Lima
+**U1**(Usuário 1)
+**U2**(Usuário 2)
 
 **Videos dos Teste de Comunicabilidade dos Usuários(Youtube)**  
 **U1** https://youtu.be/grxDx71plS0  
